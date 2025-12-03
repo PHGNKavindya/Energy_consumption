@@ -27,8 +27,8 @@ machine learning models were applied and compared for predictive performance.
 - Decision Trees showed overfitting at higher depths
 
 ## Repository Contents
-- `analysis.ipynb`  — full Python & ML workflow
-- `dataset.csv` — data used 
+- `energy_analysis.ipynb`  — full Python & ML workflow
+- `Energy_consumption.csv` — data used 
 - `plots/` — visualizations & graphs
 
 This project is part of a real-world analysis coursework for understanding and modeling energy dynamics in buildings using data-driven machine learning techniques.
